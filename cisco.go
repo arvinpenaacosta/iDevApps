@@ -13,9 +13,9 @@ func main() {
 
 	vlan := 68
 
-	user := "a.acosta"
-	pass := "64@Rvin#8569"
-	targethost := "10.16.0.80:22"
+	user := "a++++++++++a"
+	pass := "6++++++++++9"
+	targethost := "xx.xx.xx.xx:2525"
 	//targethost := "ios-xe-mgmt.cisco.com:8181"
 
 	config := &ssh.ClientConfig{
