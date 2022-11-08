@@ -11,7 +11,7 @@ func main() {
 	intf := "g1/0/9"
 	vlan := 68
 
-	args := os.Args
+	//args := os.Args
 
 	cmds := []string{
 		"conf t",
